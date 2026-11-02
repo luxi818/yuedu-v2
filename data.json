@@ -1,0 +1,323 @@
+{
+  "categories": [
+    "都市言情",
+    "现代言情",
+    "古风言情",
+    "玄幻奇幻",
+    "仙侠修真",
+    "武侠江湖",
+    "悬疑推理",
+    "历史架空",
+    "科幻未来",
+    "成人文学"
+  ],
+  "books": [
+    {
+      "id": "chengshi-fengxin",
+      "title": "城市风信",
+      "author": "林晚晴",
+      "category": "都市言情",
+      "cover": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=720&q=88",
+      "intro": "在繁忙的城市里，独立设计师沈知夏与建筑师顾言因一场旧街区改造项目相识。一个习惯把情绪藏进画稿，一个习惯用沉默解决问题，两人在工作碰撞与生活琐事中逐渐理解彼此，也重新审视事业、家庭与自我价值。",
+      "tags": [
+        "都市生活",
+        "职场成长",
+        "情感关系"
+      ],
+      "status": "连载中",
+      "featured": true
+    },
+    {
+      "id": "yueguang-qingjian",
+      "title": "月光请柬",
+      "author": "苏禾",
+      "category": "现代言情",
+      "cover": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=720&q=88",
+      "intro": "一封迟到多年的请柬，让两位曾经错过的人再次相遇。摄影师许清在整理祖母旧物时，发现一段被尘封的往事。她循着照片里的线索回到海边小城，也遇见了如今已成为纪录片导演的周屿。故事关于遗憾、和解，以及重新开始的勇气。",
+      "tags": [
+        "久别重逢",
+        "温柔治愈",
+        "海边小城"
+      ],
+      "status": "已完结",
+      "featured": true
+    },
+    {
+      "id": "jinse-changan",
+      "title": "锦色长安",
+      "author": "青梧",
+      "category": "古风言情",
+      "cover": "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?w=720&q=88",
+      "intro": "大理寺女史苏锦凭借敏锐观察力卷入一桩宫廷旧案。她与年轻少卿携手查证线索，在朝堂风云、家族秘密与个人理想之间寻找真相。作品以架空王朝为背景，融入探案、成长与克制细腻的情感线。",
+      "tags": [
+        "古风",
+        "探案",
+        "女性成长"
+      ],
+      "status": "连载中",
+      "featured": true
+    },
+    {
+      "id": "fengqi-luanshan",
+      "title": "风起乱山",
+      "author": "墨行舟",
+      "category": "玄幻奇幻",
+      "cover": "https://images.unsplash.com/photo-1531123897727-8f129e1688ce?w=720&q=88",
+      "intro": "边陲少女意外唤醒沉睡在群山深处的古老印记，从此踏入人族、灵族与失落文明交织的世界。她需要在各方势力的追逐中寻找身世答案，并决定是否承担改变大陆命运的责任。",
+      "tags": [
+        "东方奇幻",
+        "冒险",
+        "成长"
+      ],
+      "status": "连载中",
+      "featured": true
+    },
+    {
+      "id": "qinglian-xianmeng",
+      "title": "青莲仙盟",
+      "author": "云中鹤",
+      "category": "仙侠修真",
+      "cover": "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?w=720&q=88",
+      "intro": "出身小宗门的普通弟子凭借一枚残缺玉简，逐步揭开上古修行体系的秘密。宗门试炼、秘境寻宝与仙盟纷争接踵而至，主角在漫长修行路上不断寻找力量与本心之间的平衡。",
+      "tags": [
+        "修仙",
+        "宗门",
+        "秘境"
+      ],
+      "status": "连载中",
+      "featured": false
+    },
+    {
+      "id": "jianghu-yeyu",
+      "title": "江湖夜雨",
+      "author": "陆归尘",
+      "category": "武侠江湖",
+      "cover": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=720&q=88",
+      "intro": "一名不愿继承门派的年轻刀客，带着师父留下的旧地图行走四方。沿途遇到的镖师、医者、商贩与隐士，让他逐渐明白江湖并非只有胜负，还有承诺、信义与普通人的生活。",
+      "tags": [
+        "传统武侠",
+        "江湖群像",
+        "侠义"
+      ],
+      "status": "已完结",
+      "featured": false
+    },
+    {
+      "id": "wuye-dang-an",
+      "title": "午夜档案室",
+      "author": "闻笙",
+      "category": "悬疑推理",
+      "cover": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=720&q=88",
+      "intro": "城市档案馆夜班管理员发现，一批已经封存的旧案卷宗在目录中反复出现。随着调查深入，几位陌生人的人生轨迹竟指向同一场多年前的事故。层层线索背后，是关于记忆与真相的复杂谜题。",
+      "tags": [
+        "都市悬疑",
+        "档案谜案",
+        "反转"
+      ],
+      "status": "连载中",
+      "featured": true
+    },
+    {
+      "id": "shanhe-jiushi",
+      "title": "山河旧事",
+      "author": "长亭",
+      "category": "历史架空",
+      "cover": "https://images.unsplash.com/photo-1524250502761-1ac6f2e30d43?w=720&q=88",
+      "intro": "架空王朝更迭之际，边城书吏意外保存下一份关乎粮道与军情的密档。小人物被推至时代浪潮中央，在理想、家国与个人安危之间作出选择。故事以多线叙事呈现乱世中的人情与抉择。",
+      "tags": [
+        "架空历史",
+        "家国",
+        "群像"
+      ],
+      "status": "已完结",
+      "featured": false
+    },
+    {
+      "id": "xingji-huixin",
+      "title": "星际回信",
+      "author": "程未",
+      "category": "科幻未来",
+      "cover": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=720&q=88",
+      "intro": "深空观测站收到一段来自未知星域的重复信号，年轻语言学家加入破译团队。信号中隐藏着一段文明记录，也让人类重新思考探索边界、技术伦理与孤独的意义。",
+      "tags": [
+        "星际",
+        "人工智能",
+        "文明探索"
+      ],
+      "status": "连载中",
+      "featured": false
+    },
+    {
+      "id": "chunri-buhui",
+      "title": "春日不回头",
+      "author": "周也",
+      "category": "现代言情",
+      "cover": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=720&q=88",
+      "intro": "从校园到职场，许多年后再见的两个人已经拥有不同的人生。一次合作让他们重新成为彼此生活中的重要角色，也让他们学会坦诚面对当年的误会与如今的期待。",
+      "tags": [
+        "青春回忆",
+        "职场",
+        "双向成长"
+      ],
+      "status": "已完结",
+      "featured": false
+    },
+    {
+      "id": "taoyuan-mimi",
+      "title": "桃源秘录",
+      "author": "白露",
+      "category": "玄幻奇幻",
+      "cover": "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?w=720&q=88",
+      "intro": "山村少年在寻找失踪亲人的途中，发现地图上不存在的桃源古境。古老族群、奇异生灵和被遗忘的契约逐一出现，他必须解开秘境规则，才能找到回家的路。",
+      "tags": [
+        "秘境探索",
+        "东方幻想",
+        "奇遇"
+      ],
+      "status": "连载中",
+      "featured": false
+    },
+    {
+      "id": "qingfeng-ci",
+      "title": "清风词",
+      "author": "南枝",
+      "category": "古风言情",
+      "cover": "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?w=720&q=88",
+      "intro": "乐坊女乐师凭借一曲新词进入王府，却无意间听见一段不该被听见的谈话。她以音律为线索追查旧事，在礼法与自由之间寻找自己的道路。",
+      "tags": [
+        "古风情感",
+        "音律",
+        "女性成长"
+      ],
+      "status": "连载中",
+      "featured": false
+    },
+    {
+      "id": "chengnian-shijian",
+      "title": "成年人的边界",
+      "author": "简宁",
+      "category": "成人文学",
+      "cover": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=720&q=88",
+      "intro": "以成年人的亲密关系与自我认知为主题，讲述几位都市人物在工作压力、情感选择和个人边界之间的真实困惑。作品侧重人物心理、沟通与成长，采用克制的现实主义叙事。",
+      "tags": [
+        "成年读者",
+        "现实情感",
+        "关系成长"
+      ],
+      "status": "已完结",
+      "featured": false
+    },
+    {
+      "id": "yehang-denghuo",
+      "title": "夜航灯火",
+      "author": "顾北",
+      "category": "都市言情",
+      "cover": "https://images.unsplash.com/photo-1531123897727-8f129e1688ce?w=720&q=88",
+      "intro": "急诊护士与独立音乐制作人在一座不眠城市相遇。不同的职业节奏让他们对生活有着截然不同的理解，却也在一次次深夜谈话中找到理解彼此的方式。",
+      "tags": [
+        "都市情感",
+        "职业故事",
+        "温暖"
+      ],
+      "status": "连载中",
+      "featured": false
+    },
+    {
+      "id": "longmen-jushi",
+      "title": "龙门局势",
+      "author": "秦川",
+      "category": "武侠江湖",
+      "cover": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=720&q=88",
+      "intro": "龙门镖局接下一趟看似寻常的护送任务，却牵出失踪多年的武林盟约。各路高手相继现身，年轻镖师在恩怨纠葛中逐渐理解师门真正守护的东西。",
+      "tags": [
+        "武侠",
+        "门派",
+        "江湖谜局"
+      ],
+      "status": "连载中",
+      "featured": false
+    },
+    {
+      "id": "shencheng-mima",
+      "title": "深城密码",
+      "author": "陈默",
+      "category": "悬疑推理",
+      "cover": "https://images.unsplash.com/photo-1524250502761-1ac6f2e30d43?w=720&q=88",
+      "intro": "一名数据分析师收到匿名发送的城市交通记录，里面隐藏着多起案件之间的关联。她与刑警搭档从看似随机的时间点入手，逐步还原一场精心设计的骗局。",
+      "tags": [
+        "犯罪推理",
+        "数据线索",
+        "都市谜案"
+      ],
+      "status": "连载中",
+      "featured": false
+    },
+    {
+      "id": "yunhai-xianzhou",
+      "title": "云海仙舟",
+      "author": "明川",
+      "category": "仙侠修真",
+      "cover": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=720&q=88",
+      "intro": "漂浮于云海之上的仙舟每隔百年才会开启一次。来自不同门派的年轻修士登舟寻访失落道统，却发现仙舟本身就是一座等待被解开的巨大谜题。",
+      "tags": [
+        "仙侠",
+        "秘境",
+        "群像冒险"
+      ],
+      "status": "连载中",
+      "featured": false
+    },
+    {
+      "id": "yongye-jihua",
+      "title": "永夜计划",
+      "author": "沈屿",
+      "category": "科幻未来",
+      "cover": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=720&q=88",
+      "intro": "全球能源系统出现异常后，研究团队发现一组来自未来的预测数据。工程师、社会学家与人工智能研究员必须在有限时间内判断：这究竟是警告，还是一场人为实验。",
+      "tags": [
+        "近未来",
+        "科技伦理",
+        "悬念"
+      ],
+      "status": "已完结",
+      "featured": false
+    },
+    {
+      "id": "qinghe-chuan",
+      "title": "清河传",
+      "author": "沈砚",
+      "category": "历史架空",
+      "cover": "https://images.unsplash.com/photo-1531123897727-8f129e1688ce?w=720&q=88",
+      "intro": "清河小县因新政推行而发生变化，县学先生、商户、差役与乡民各自面对时代转折。作品从地方生活切入，描绘制度变迁中的普通人和他们的选择。",
+      "tags": [
+        "历史",
+        "市井群像",
+        "时代变迁"
+      ],
+      "status": "连载中",
+      "featured": false
+    }
+  ],
+  "friends": [
+    {
+      "name": "成人内容百科",
+      "url": "https://chengrenbaike.com/",
+      "desc": "成人内容相关知识与信息导航"
+    },
+    {
+      "name": "起点中文网",
+      "url": "https://www.qidian.com/",
+      "desc": "网络文学创作与阅读平台"
+    },
+    {
+      "name": "番茄小说",
+      "url": "https://fanqienovel.com/",
+      "desc": "海量正版小说阅读平台"
+    },
+    {
+      "name": "91成人短剧",
+      "url": "https://91crdjai.com/",
+      "desc": "短剧内容与影像作品入口"
+    }
+  ]
+}
